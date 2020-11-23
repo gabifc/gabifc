@@ -1,4 +1,4 @@
-### Hi there I'm Gabrielle Fernandes  👋  
+### Hi there! I'm Gabrielle Fernandes  👋  
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gabriellefernandesc/)](https://www.linkedin.com/in/gabriellefernandesc/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:gabriellefto@gmail.com)](mailto:gabriellefto@gmail.com)
