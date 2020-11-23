@@ -1,4 +1,14 @@
-### Hi there 👋
+### Hi there I'm Gabrielle Fernandes  👋  
+
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gabriellefernandesc/)](https://www.linkedin.com/in/gabriellefernandesc/)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:gabriellefto@gmail.com)](mailto:gabriellefto@gmail.com)
+
+## Estudante de Ciência e Engenharia de dados e Inteligência de Mercado.
+## Foco em resoluções de problemas através de dados.
+#### <code> Site Pessoal: <a href="https://portfolio-cv-gabrielle.netlify.app/"> Portfólio </a> </code>
+
+![Gabrielle github stats](https://github-readme-stats.vercel.app/api?username=gabifc)
+
 
 <!--
 **gabifc/gabifc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
