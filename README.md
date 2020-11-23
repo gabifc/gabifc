@@ -4,8 +4,8 @@
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:gabriellefto@gmail.com)](mailto:gabriellefto@gmail.com)
 
 ## Estudante de Ciência e Engenharia de dados e Inteligência de Mercado.
-## Foco em resoluções de problemas através de dados.
-#### <code> Site Pessoal: <a href="https://portfolio-cv-gabrielle.netlify.app/"> Portfólio </a> </code>
+#### Foco em resoluções de problemas através de dados.
+#### <code> Site Pessoal: <a href="https://portfolio-cv-gabrielle.netlify.app/"> Portfólio e CV </a> </code>
 
 ![Gabrielle github stats](https://github-readme-stats.vercel.app/api?username=gabifc)
 
